@@ -3,12 +3,16 @@
 Currently diving into Software Quality at EBAC and Analysis and Development at Cruzeiro do Sul.</p>
 
 <p align="center">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analuisaabarbosa/" alt="LinkedIn"/></a>
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=analuisaaugustob@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/analuisaabarbosa/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:analuisaaugustob@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=analuisaabarbosa&label=Profile%20views&color=0e75b6&style=flat" alt="analuisaabarbosa" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=analuisaabarbosa&label=Profile%20views&color=0e75b6&style=flat" alt="analuisaabarbosa" />
+</p>
 
 <h2>Embracing new challenges every day! 🔭 </h2> 
 <p>I love to learn, innovate, and create solutions that truly make a difference. Being part of this vibrant community is incredibly rewarding. <br>
